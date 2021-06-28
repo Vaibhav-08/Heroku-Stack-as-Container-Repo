@@ -1,6 +1,11 @@
-# ⚡ A fake repo to create stack as container in Heroku 😋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgautamajay52%2FHeroku-fake-repo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gautamajay52/Heroku-fake-repo)
+<p align="center">
+  <img width="200" src="https://intentionalistacom.files.wordpress.com/2017/09/nothing.gif" alt="SearchX">
+</p>
 
-# ⚡ Steps: 🔥
+# What is this repo about?
+A fake repo to create stack as container in Heroku 😋. It will help you to deploy those repos which doesn't have `app.json` file but it contains `Dockerfile` & `heroku.yml`.
+
+# Steps:
 1) Tap on [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 2) Link your `GitHub` in Heroku.
@@ -11,5 +16,5 @@
 7) Turn on the `Worker`.
 8) Enjoy 👌
 
-# ⚡ Credits: 🌎
-* [GautamKumar(me)](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/Heroku-fake-repo)😬😁
+# Credits:
+* [GautamKumar](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/Heroku-fake-repo)
