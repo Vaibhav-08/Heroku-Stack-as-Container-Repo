@@ -1,7 +1,8 @@
 {
     "name": "Heroku-fake-repo",
     "description": "Create a fake app with stack as a container in Heroku",
-    "repository": "https://github.com/gautamajay52/Heroku-fake-repo",
+    "logo": "https://telegra.ph/file/81de2d64dfa2eb7fb85ca.jpg",
+    "repository": "https://github.com/Vaibhav-08/blank-heroku-repo",
     "keywords": [
         "Heroku",
         "fake",
@@ -10,7 +11,7 @@
     "env": {
         "BY": {
             "description": "Name of Author",
-            "value": "gautamajay52",
+            "value": "Vaibhav-08",
             "required": false
         }
     },
