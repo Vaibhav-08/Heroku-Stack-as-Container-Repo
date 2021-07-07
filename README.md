@@ -3,11 +3,11 @@
 </p>
 
 # What is this repo about?
-A fake repo to create stack as container in Heroku 😋. It will help you to deploy those repos which doesn't have `app.json` file but it contains `Dockerfile` & `heroku.yml`.
+A repo to create stack as container in Heroku 😋. It will help you to deploy those repos which doesn't have `app.json` file but it contains `Dockerfile` & `heroku.yml`.
 
 # Steps:
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Vaibhav-08/blank-heroku-repo"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Vaibhav-08/Heroku-Stack-as-Container-Repo"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 1) Tap the Deploy Button above👆🏻
 2) Link your `GitHub` in Heroku.
@@ -19,4 +19,4 @@ A fake repo to create stack as container in Heroku 😋. It will help you to dep
 8) Enjoy 👌
 
 # Credits:
-- [GautamKumar](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/Heroku-fake-repo)
+- [GautamKumar](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/Heroku-Stack-as-Container-Repo)
